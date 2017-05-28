@@ -1,0 +1,26 @@
+{
+  "name": "webpack-modular-react-example",
+  "author": "Thomaz Feitoza<thomazfeitoza@gmail.com>",
+  "dependencies": {
+    "express": "4.15.2",
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "react-router": "4.1.1",
+    "react-router-dom": "4.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-core": "6.24.0",
+    "babel-loader": "6.4.1",
+    "babel-plugin-syntax-dynamic-import": "6.18.0",
+    "babel-plugin-system-import-transformer": "3.1.0",
+    "babel-preset-es2015": "6.24.0",
+    "babel-preset-react": "6.23.0",
+    "babylon": "6.17.1",
+    "gulp": "3.9.1",
+    "gulp-load-plugins": "1.5.0",
+    "gulp-nodemon": "2.2.1",
+    "webpack": "2.3.2",
+    "webpack-dev-server": "2.4.2"
+  }
+}

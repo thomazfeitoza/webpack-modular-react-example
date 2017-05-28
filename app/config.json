@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 4000
+  },
+  "static": {
+    "url": "http://localhost:4001"
+  }
+}
